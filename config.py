@@ -40,14 +40,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://ibb.co/Cp4ZQCYt")
 
 #text
 HELP_TXT = "<b>ʜɪ ᴅᴜᴅᴇ!!\nᴛʜɪs ɪs ᴀ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡʜɪᴄʜ ᴏɴʟʏ ᴡᴏʀᴋ ғᴏʀ : [ @Guardian_Station ]\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n💥 sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n🧑‍💻 ᴏᴡɴᴇᴅ ʙʏ : [ @Guardian_Station ]</b>"
-ABOUT_TXT = """\ 
-> ○ **𝐎ᴡɴᴇʀ** : [Ryan](https://t.me/Raatic)  
-> ○ **𝐀ɴɪᴍᴇ 𝐂ʜᴀɴɴᴇʟ** : [𝐂ᴏᴍɪɴɢ 𝐒ᴏᴏɴ](https://t.me/Crunchyroll_Animes_Channel)  
-> ○ **𝐇ᴇɴᴛᴀɪ 𝐂ʜᴀɴɴᴇʟ** : [𝐆ᴜᴀʀᴅɪᴀɴ 𝐒ᴛᴀᴛɪᴏɴ](https://t.me/Ecchi_Network)  
-> ○ **𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ** : [𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ](https://t.me/+aSNoggEBVuVhNTA1)
-"""
-
-bot.send_message(chat_id, ABOUT_TXT, parse_mode="MarkdownV2")
+ABOUT_TXT = "<b><blockquote>○ 𝐎ᴡɴᴇʀ : <a href='https://t.me/Raatic'>Ryan</a>\n○ 𝐀ɴɪᴍᴇ 𝐂ʜᴀɴɴᴇʟ : <a href='https://t.me/Crunchyroll_Animes_Channel'>𝐂ᴏᴍɪɴɢ 𝐒ᴏᴏɴ</a>\n○ 𝐇ᴇɴᴛᴀɪ 𝐂ʜᴀɴɴᴇʟ : <a href=https://t.me/Guardian_Station>𝐆ᴜᴀʀᴅɪᴀɴ 𝐒ᴛᴀᴛɪᴏɴ</a>\n○ 𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ : <a href='https://t.me/+aSNoggEBVuVhNTA1'>𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ </a></blockquote></b>"
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
 #start message
