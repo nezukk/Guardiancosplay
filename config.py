@@ -40,7 +40,12 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://ibb.co/Cp4ZQCYt")
 
 #text
 HELP_TXT = "<b>ʜɪ ᴅᴜᴅᴇ!!\nᴛʜɪs ɪs ᴀ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡʜɪᴄʜ ᴏɴʟʏ ᴡᴏʀᴋ ғᴏʀ : [ @Guardian_Station ]\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n💥 sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n🧑‍💻 ᴏᴡɴᴇᴅ ʙʏ : [ @Guardian_Station ]</b>"
-ABOUT_TXT = "<b><blockquote>○ 𝐎ᴡɴᴇʀ : <a href='https://t.me/Raatic'>Ryan</a>\n○ 𝐀ɴɪᴍᴇ 𝐂ʜᴀɴɴᴇʟ : <a href='https://t.me/Crunchyroll_Animes_Channel'>𝐂ᴏᴍɪɴɢ 𝐒ᴏᴏɴ</a>\n○ 𝐇ᴇɴᴛᴀɪ 𝐂ʜᴀɴɴᴇʟ : <a href=https://t.me/Ecchi_Network>𝐆ᴜᴀʀᴅɪᴀɴ 𝐒ᴛᴀᴛɪᴏɴ</a>\n○ 𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ : <a href='https://t.me/+aSNoggEBVuVhNTA1'>𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ </a></blockquote></b>"
+ABOUT_TXT = """<blockquote>
+○ 𝐎ᴡɴᴇʀ : <a href='https://t.me/Raatic'>Ryan</a><br>
+○ 𝐀ɴɪᴍᴇ 𝐂ʜᴀɴɴᴇʟ : <a href='https://t.me/Crunchyroll_Animes_Channel'>𝐂ᴏᴍɪɴɢ 𝐒ᴏᴏɴ</a><br>
+○ 𝐇ᴇɴᴛᴀɪ 𝐂ʜᴀɴɴᴇʟ : <a href='https://t.me/Ecchi_Network'>𝐆ᴜᴀʀᴅɪᴀɴ 𝐒ᴛᴀᴛɪᴏɴ</a><br>
+○ 𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ : <a href='https://t.me/+aSNoggEBVuVhNTA1'>𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ</a>
+</blockquote>"""
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
 #start message
