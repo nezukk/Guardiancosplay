@@ -29,8 +29,8 @@ DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://adamopytbusiness1:uSswEjo
 DB_NAME = os.environ.get("DATABASE_NAME", "CosplayGuardiansBot")
 
 #force sub channel id, if you want enable force sub
-FORCESUB_CHANNEL = int(os.environ.get("FORCESUB_CHANNEL", "-1002611066936"))
-FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1002287619553"))
+FORCESUB_CHANNEL = int(os.environ.get("FORCESUB_CHANNEL", "-1002250921717"))
+FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1002222453736"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
@@ -40,11 +40,12 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://ibb.co/Cp4ZQCYt")
 
 #text
 HELP_TXT = "<b>ʜɪ ᴅᴜᴅᴇ!!\nᴛʜɪs ɪs ᴀ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡʜɪᴄʜ ᴏɴʟʏ ᴡᴏʀᴋ ғᴏʀ : [ @Guardian_Station ]\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n💥 sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n🧑‍💻 ᴏᴡɴᴇᴅ ʙʏ : [ @Guardian_Station ]</b>"
-ABOUT_TXT = "<b><blockquote>○ 𝐎ᴡɴᴇʀ : <a href='https://t.me/Raatic'>Ryan</a>\n○ 𝐀ɴɪᴍᴇ 𝐂ʜᴀɴɴᴇʟ : <a href='https://t.me/Crunchyroll_Animes_Channel'>𝐂ᴏᴍɪɴɢ 𝐒ᴏᴏɴ</a>\n○ 𝐌ᴀɪɴ 𝐂ʜᴀɴɴᴇʟ : <a href=https://t.me/Guardian_Station>𝐆ᴜᴀʀᴅɪᴀɴ 𝐒ᴛᴀᴛɪᴏɴ</a>\n○ 𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ : <a href='https://t.me/+nMyRHZ47F8kyYTM1'>𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ </a></blockquote></b>"
+ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
+<blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Real_san>𝐀ʀᴛʜᴜʀ</a>\n» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Crunchyroll_Animes_Channel>𝐂ᴏᴍɪɴɢ 𝐒ᴏᴏɴ</a>\n» 𝐌ᴀɪɴ 𝐂ʜᴀɴɴᴇʟ : <a href=https://t.me/Guardian_Network>𝐆ᴜᴀʀᴅɪᴀɴ 𝐍ᴇᴛᴡᴏʀᴋ</a>\n» sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ : <a href=https://t.me/+nMyRHZ47F8kyYTM1>𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/Raatic>𝐑ʏᴀɴ</a></blockquote></b>"""
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
 #start message
-START_MSG = os.environ.get("START_MESSAGE", "<b>ʜɪ ᴛʜᴇʀᴇ... {first}! 💥\n\nɪ ᴀᴍ ᴀ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ...!\nɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴘʀɪᴠᴀᴛᴇ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ....!\n\nᴅᴇᴠᴇʟᴏᴘᴇᴅ ғᴏʀ : [ @Guardian_Network ] </b>")
+START_MSG = os.environ.get("START_MESSAGE", "<b>ʜɪ ᴛʜᴇʀᴇ... {first}! 💥\n\nɪ ᴀᴍ ᴀ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ...!\nɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴘʀɪᴠᴀᴛᴇ ꜰɪʟᴇꜱ ᴛʜʀᴏᴜɢʜ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ʟɪɴᴋ....!\n\nᴅᴇᴠᴇʟᴏᴘᴇᴅ ғᴏʀ : [ @Guardian_Station ] </b>")
 try:
     ADMINS=[1683225887]
     for x in (os.environ.get("ADMINS", "1683225887").split()):
@@ -65,8 +66,8 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 #Short Url or Api
-SHORT_URL = os.environ.get("SHORTNER_URL", "linkshortify.com")
-SHORT_API = os.environ.get("SHORTNER_API", "b05876fe18fef81155492586079495f1c46bbcba")
+SHORT_URL = os.environ.get("SHORTNER_URL", "modijiurl.com")
+SHORT_API = os.environ.get("SHORTNER_API", "fddc3e96107a11be9fe7557cdc4b59ced2a7c0bb")
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "Pʟᴇᴀꜱᴇ ᴅᴏɴ'ᴛ ᴍᴇꜱꜱᴀɢᴇ ᴍᴇ ᴅɪʀᴇᴄᴛʟʏ ɪ ᴀᴍ ᴏɴʟʏ ᴡᴏʀᴋ ꜰᴏʀ - [ @Guardian_Station ]"
