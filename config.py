@@ -29,8 +29,8 @@ DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://adamopytbusiness1:uSswEjo
 DB_NAME = os.environ.get("DATABASE_NAME", "CosplayGuardiansBot")
 
 #force sub channel id, if you want enable force sub
-FORCESUB_CHANNEL = int(os.environ.get("FORCESUB_CHANNEL", "-1002250921717"))
-FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1002222453736"))
+FORCESUB_CHANNEL = int(os.environ.get("FORCESUB_CHANNEL", "-1002611066936"))
+FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1002287619553"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
@@ -40,8 +40,15 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://ibb.co/Cp4ZQCYt")
 
 #text
 HELP_TXT = "<b>ʜɪ ᴅᴜᴅᴇ!!\nᴛʜɪs ɪs ᴀ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡʜɪᴄʜ ᴏɴʟʏ ᴡᴏʀᴋ ғᴏʀ : [ @Guardian_Station ]\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n💥 sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n🧑‍💻 ᴏᴡɴᴇᴅ ʙʏ : [ @Guardian_Station ]</b>"
-ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
-<blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Real_san>𝐀ʀᴛʜᴜʀ</a>\n» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Crunchyroll_Animes_Channel>𝐂ᴏᴍɪɴɢ 𝐒ᴏᴏɴ</a>\n» 𝐌ᴀɪɴ 𝐂ʜᴀɴɴᴇʟ : <a href=https://t.me/Guardian_Network>𝐆ᴜᴀʀᴅɪᴀɴ 𝐍ᴇᴛᴡᴏʀᴋ</a>\n» sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ : <a href=https://t.me/+nMyRHZ47F8kyYTM1>𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/Raatic>𝐑ʏᴀɴ</a></blockquote></b>"""
+ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ:</b> {botname}
+<blockquote>
+<b>» ᴄʀᴇᴀᴛᴏʀ:</b> <a href="https://t.me/Real_san">𝐀ʀᴛʜᴜʀ</a><br>
+<b>» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ:</b> <a href="https://t.me/Crunchyroll_Animes_Channel">𝐂ᴏᴍɪɴɢ 𝐒ᴏᴏɴ</a><br>
+<b>» 𝐌ᴀɪɴ 𝐂ʜᴀɴɴᴇʟ:</b> <a href="https://t.me/Guardian_Network">𝐆ᴜᴀʀᴅɪᴀɴ 𝐍ᴇᴛᴡᴏʀᴋ</a><br>
+<b>» sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ:</b> <a href="https://t.me/+nMyRHZ47F8kyYTM1">𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ</a><br>
+<b>» ᴏᴡɴᴇʀ:</b> <a href="https://t.me/Raatic">𝐑ʏᴀɴ</a>
+</blockquote>
+"""
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
 #start message
