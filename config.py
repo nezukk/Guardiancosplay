@@ -42,11 +42,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://ibb.co/Cp4ZQCYt")
 HELP_TXT = "<b>ʜɪ ᴅᴜᴅᴇ!!\nᴛʜɪs ɪs ᴀ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡʜɪᴄʜ ᴏɴʟʏ ᴡᴏʀᴋ ғᴏʀ : [ @Guardian_Station ]\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n💥 sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n🧑‍💻 ᴏᴡɴᴇᴅ ʙʏ : [ @Guardian_Station ]</b>"
 ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ:</b> Cosplay_Guardians_Bot
 <blockquote>
-<b>» ᴄʀᴇᴀᴛᴏʀ:</b> <a href="https://t.me/Real_san">𝐀ʀᴛʜᴜʀ</a><br>
-<b>» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ:</b> <a href="https://t.me/Crunchyroll_Animes_Channel">𝐂ᴏᴍɪɴɢ 𝐒ᴏᴏɴ</a><br>
-<b>» 𝐌ᴀɪɴ 𝐂ʜᴀɴɴᴇʟ:</b> <a href="https://t.me/Guardian_Network">𝐆ᴜᴀʀᴅɪᴀɴ 𝐍ᴇᴛᴡᴏʀᴋ</a><br>
-<b>» sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ:</b> <a href="https://t.me/+nMyRHZ47F8kyYTM1">𝐀ɴɪᴍᴇ 𝐂ʜᴀᴛ</a><br>
-<b>» ᴏᴡɴᴇʀ:</b> <a href="https://t.me/Raatic">𝐑ʏᴀɴ</a>
+...
 </blockquote>
 """
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
